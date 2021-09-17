@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "nombre": "ASUS Prime X299 Edition 30",
+        "precio": "122509",
+        "categoria": "Placas Madre",
+        "imagen": "ASUS_Prime_X299_Edition_30.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "ASUS ROG MAXIMUS XI HERO",
+        "precio": "80000",
+        "categoria": "Placas Madre",
+        "imagen": "ASUS_ROG_MAXIMUS_XI_HERO.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "ASUS ROG STRIX H370-I GAMING",
+        "precio": "30000",
+         "categoria": "Placas Madre",
+         "imagen": "ASUS_ROG_STRIX_H370-I_GAMING.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "ASUS ROG Rampage VI Extreme Encore",
+        "precio": "80000",
+        "categoria": "Placas Madre",
+        "imagen": "ASUS_ROG_Rampage_VI_Extreme_Encore.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Intel Core i3 9350KF",
+        "precio": "23000",
+        "categoria": "Procesadores",
+        "imagen": "Intel_Core_i3-9350KF.jpg"
+    },
+    {
+        "id":6,
+        "nombre":"Intel Core i5 9600K",
+        "precio": "30000",
+        "categoria": "Procesadores",
+        "imagen": "Intel_Core_i5-9600K.jpg"
+    },
+    {       
+        "id":7,
+        "nombre":"Intel Core i7 9700K",
+        "precio": "45000",
+        "categoria": "Procesadores",
+        "imagen": "Intel_Core_i7-9700K.jpg"
+    },
+    {
+        "id":8,
+        "nombre":"Intel Core i9 9900K",
+        "precio": "200000",
+        "categoria": "Procesadores",
+        "imagen": "Intel_Core_i9-9900K.jpg"
+    },
+    {
+        "id":9,
+        "nombre":"MSI GeForce RTX 2070 SUPER",
+        "precio": "230000",
+        "categoria": "Placas de Video",
+        "imagen": "MSI_GeForce_RTX_2070_SUPER.jpg"
+    }
+]
